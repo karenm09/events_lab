@@ -1,8 +1,10 @@
-# To-Do: Make To-Do
+# Events Lab
 
-It's time to make our first usable frontend app. Today, we're going to construct a to-do list. Our app will have the following items:
+## To-Do list
 
-- An `h1` title (e.g. "Reed's To-Dos").
+Our app will have the following items:
+
+- An `h1` title (e.g. "My To-Dos").
 - A single `ul` tag, empty when the page is first loaded.
 - A `form` for the user to add a new to-do, with a single text `input` and a `submit` button.
 
