@@ -14,6 +14,8 @@ And the following functionalities:
 - When the user writes _nothing_ in the `form`'s text input area and clicks `submit`, an error message (inside a `p` tag) should appear below the form.
 - When the user clicks on one of the `li` items, the item should be crossed out, indicating that that to-do is complete.
 
+## Sample
+![todos being added to todo list](/todos.gif)
 ## Bonus Tasks
 
 - Implement a `button` tag next to each `li` that removes that `li` tag entirely.
