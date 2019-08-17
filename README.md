@@ -57,7 +57,6 @@ And the following functionalities:
 
 - Have the input go back to empty after adding a new todo.
 - Implement a delete `button` next to each `li` that removes that `li` tag entirely.
-  - **Extra bonus**: Add validation to this button so it _only_ removes to-dos which have been crossed out. Otherwise, send an `alert` to the window with an error message.
+- Clicking a todo that is crossed out (completed) uncrosses the todo.  
 - Add the ability to add multiple to-dos if the user submits a text input with multiple lines. Each line should be a new to-do.
-- Clicking a todo that is crossed (completed) uncrosses the todo.  
-- Style your app using a simple, clear aesthetic. Take a look at [Evernote](https://www.google.com/search?q=evernote&rlz=1C5CHFA_enUS748US752&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj8iIfq28LeAhXGq1MKHZZAAMkQ_AUIFSgD&biw=1367&bih=749#imgrc=5L6K_LkczUEbHM:) and [Trello](https://www.google.com/search?rlz=1C5CHFA_enUS748US752&biw=1367&bih=749&tbm=isch&sa=1&ei=4hTjW6WLCYOk_Qa4iZ-4CA&q=trello&oq=trello&gs_l=img.3..0j0i67j0l8.53892.54638..54927...0.0..0.100.358.5j1......1....1..gws-wiz-img.......35i39.7fnwI2IxJX0#imgrc=frlWF-4h_4s4BM:) for inspiration.
+- Look at the next lesson **Intro to CSS** and add some styling to your app.
